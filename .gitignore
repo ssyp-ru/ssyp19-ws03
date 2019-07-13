@@ -1,0 +1,7 @@
+/.vscode
+/.vs
+/cmake-*
+/.idea
+/build*
+/*.sublime-*
+/compile_flags.txt
